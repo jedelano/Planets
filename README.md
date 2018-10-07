@@ -1,2 +1,2 @@
 # Planets
-This is a readme
+This is a repository about planets and vampires.
